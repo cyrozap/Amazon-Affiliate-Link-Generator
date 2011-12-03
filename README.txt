@@ -1,0 +1,1 @@
+Embed the "widget.php" file in an iframe, use the index.php as a separate page.
